@@ -13,7 +13,7 @@ from langchain_core.messages import HumanMessage
 
 def main():
     # Load environment variables
-    load_dotenv()
+    #load_dotenv()
     cohere_api = 'z1gu5tAWkkl2nBeTS8EAZLKo8q0TWNLWMK8DsfTF'
 
     if not cohere_api:
